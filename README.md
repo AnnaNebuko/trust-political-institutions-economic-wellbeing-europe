@@ -70,7 +70,7 @@
 - Подготовка графиков, таблиц и описаний для выпускной квалификационной работы  
 
 
-# Trust, Democracy and Economic Perceptions in Europe
+# Trust, Democracy and Economic Perceptions in Europe[https://ess.sikt.no/en/theme/321b06ad-1b98-4b7d-93ad-ca8a24e8788a/88eb08c8-371d-47d7-9fb7-351acd47eaaf/](url)
 
 ## Описание проекта
 Проект посвящён анализу связи между **доверием к политическим институтам**,  
